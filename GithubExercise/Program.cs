@@ -5,7 +5,9 @@ using System.Collections.Generic;
 List<Animal> animals = new List<Animal>()
 {
     new Duck(),
-    new Horse()
+    new Horse(),
+    new Tiger()
+
 };
 
 foreach (Animal animal in animals)
